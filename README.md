@@ -1,10 +1,10 @@
 # testGithub
 testGithub
 
-测试上传代码到github
+#测试上传代码到github
 
 步骤如下
-1.在.io的仓库页面增加新仓库
+1.在.io的仓库页面增加新仓库</br>
 2.不需要readme
 
 控制台的操作
